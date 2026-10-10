@@ -6,6 +6,9 @@ The launchers send an input command through SmartThings. They do not open the mo
 
 This is an independent community project, not an official Samsung or Logitech product.
 
+<img width="523" height="431" alt="Screen Shot 2026-10-10 at 13 47 08 PM" src="https://github.com/user-attachments/assets/ea4b95d9-5c2f-42ae-b39b-7e062ef4c56e" />
+
+
 ## What is included
 
 | Platform | Buttons | Supporting files |
