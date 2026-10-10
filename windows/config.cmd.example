@@ -1,0 +1,10 @@
+@echo off
+rem Copy this file to config.cmd and edit it locally. Never commit config.cmd.
+set "M7_DEVICE_ID=YOUR_SMARTTHINGS_DEVICE_ID"
+set "M7_COMPONENT=main"
+set "M7_CAPABILITY=samsungvd.mediaInputSource"
+set "M7_HDMI1=HDMI1"
+set "M7_HDMI2=HDMI2"
+set "M7_USBC=USB-C"
+rem Optional absolute path; otherwise the installed and adjacent CLI paths are tried.
+set "M7_CLI_PATH="

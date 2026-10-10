@@ -1,0 +1,11 @@
+{
+  "device": "YOUR_SMARTTHINGS_DEVICE_ID",
+  "component": "main",
+  "capability": "samsungvd.mediaInputSource",
+  "mapping": {
+    "HDMI 1": "HDMI1",
+    "HDMI 2": "HDMI2",
+    "USB-C": "USB-C"
+  },
+  "cli": ""
+}
